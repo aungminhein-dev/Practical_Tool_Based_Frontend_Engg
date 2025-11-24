@@ -1,0 +1,13 @@
+Technologies : html + css
+
+
+In this task, a simple web page is implemented using basic html semantics.
+
+Texts in <h1></h1> tag is centerd with inline css named with "text-align" arrtibute with value "center".
+eg : text-align:center
+
+<p></p> is colored with inline css named with "color" arrtibute with value "#696666" which is a hex color code.
+eg : color:#696666
+
+
+I used inline css in the tags using style="${attribute:value}"
